@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/master/doh-domains_overall.txt
